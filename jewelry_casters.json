@@ -1,0 +1,290 @@
+[
+  {
+    "Company": "Silver Cloud Casting",
+    "City": "Albuquerque",
+    "State": "NM",
+    "Services/Metals": "Gold, silver, bronze; mold-making, finishing"
+  },
+  {
+    "Company": "Casting House",
+    "City": "Chicago",
+    "State": "IL",
+    "Services/Metals": "40+ alloys; vacuum/centrifugal; rapid turnarounds"
+  },
+  {
+    "Company": "A&A Jewelry",
+    "City": "Chicago",
+    "State": "IL",
+    "Services/Metals": "Gold/silver/platinum/brass; wax & molds"
+  },
+  {
+    "Company": "DMJ Casting Inc.",
+    "City": "New York",
+    "State": "NY",
+    "Services/Metals": "Precious metal casting; platinum/palladium"
+  },
+  {
+    "Company": "Carrera Casting",
+    "City": "New York",
+    "State": "NY",
+    "Services/Metals": "100% recycled alloys; CAD & 3D scanning"
+  },
+  {
+    "Company": "Empire Casting House",
+    "City": "New York",
+    "State": "NY",
+    "Services/Metals": "CAD design, casting, diamonds supply"
+  },
+  {
+    "Company": "Jaguar Jewelry Casting",
+    "City": "New York",
+    "State": "NY",
+    "Services/Metals": "Platinum/gold/silver mold & casting"
+  },
+  {
+    "Company": "Quality Casting Inc.",
+    "City": NaN,
+    "State": "",
+    "Services/Metals": "3D printing, precious metal casting"
+  },
+  {
+    "Company": "Kenly Warren Casting",
+    "City": "San Francisco",
+    "State": "CA",
+    "Services/Metals": "CAD-to-cast; custom batch pricing"
+  },
+  {
+    "Company": "R&M Fine, Inc.",
+    "City": "Los Angeles",
+    "State": "CA",
+    "Services/Metals": "CNC machining; prototyping; precious metals"
+  },
+  {
+    "Company": "Joseff Hollywood",
+    "City": "Burbank",
+    "State": "CA",
+    "Services/Metals": "Ornamental casting; ISO 9001"
+  },
+  {
+    "Company": "Custom Fashion Jewels",
+    "City": "Burbank",
+    "State": "CA",
+    "Services/Metals": "Costume casting; plating; packaging"
+  },
+  {
+    "Company": "Loren Castings",
+    "City": "Kent",
+    "State": "WA",
+    "Services/Metals": "Brass/gold/silver/platinum; laser engraving"
+  },
+  {
+    "Company": "Master Casting & CAD",
+    "City": "St. Louis",
+    "State": "MO",
+    "Services/Metals": "Platinum casting, CAD conversion"
+  },
+  {
+    "Company": "Specialty Casting",
+    "City": "Benton",
+    "State": "AR",
+    "Services/Metals": "Lost-wax, CAD, mold, finishing"
+  },
+  {
+    "Company": "Snell Casting",
+    "City": "Grass Valley",
+    "State": "CA",
+    "Services/Metals": "Mass-production investment casting"
+  },
+  {
+    "Company": "Hutch\u2019s Casting",
+    "City": "Nashville",
+    "State": "TN",
+    "Services/Metals": "Contract casting for jewelry & art"
+  },
+  {
+    "Company": "Daniel Jewelry Casting",
+    "City": "Souderton",
+    "State": "PA",
+    "Services/Metals": "Lost-wax & consulting"
+  },
+  {
+    "Company": "RIVA Precision",
+    "City": "Brooklyn",
+    "State": "NY",
+    "Services/Metals": "Casting, engraving, stamping"
+  },
+  {
+    "Company": "3DM CAD Jewelry Studio",
+    "City": "New York",
+    "State": "NY",
+    "Services/Metals": "CAD modeling & wax printing"
+  },
+  {
+    "Company": "Chicago Vacuum Casting Corp.",
+    "City": "Chicago",
+    "State": "IL",
+    "Services/Metals": "Investment casting; CNC finishing"
+  },
+  {
+    "Company": "Techform Casting",
+    "City": "Portland",
+    "State": "OR",
+    "Services/Metals": "Proto, tooling for med/aero"
+  },
+  {
+    "Company": "Rashbel Marketing",
+    "City": "Burbank",
+    "State": "CA",
+    "Services/Metals": "Gold-filled chains, molds"
+  },
+  {
+    "Company": "Modern Settings LLC",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Services/Metals": "Die-struck bands; precious metals"
+  },
+  {
+    "Company": "Omega Cast LLC",
+    "City": "Miami",
+    "State": "FL",
+    "Services/Metals": "10K\u201318K gold & sterling casting"
+  },
+  {
+    "Company": "Precious Metals West",
+    "City": "Tucson",
+    "State": "AZ",
+    "Services/Metals": "Alloys, refining, sheet/wire"
+  },
+  {
+    "Company": "Precision Polishing & Orn.",
+    "City": "Orlando",
+    "State": "FL",
+    "Services/Metals": "Sterling casting; engraving; plating"
+  },
+  {
+    "Company": "Prime Time Mfg.",
+    "City": "Houston",
+    "State": "TX",
+    "Services/Metals": "High-volume mold casting; findings"
+  },
+  {
+    "Company": "Quest Beads & Cast, Inc.",
+    "City": "Indianapolis",
+    "State": "IN",
+    "Services/Metals": "Charms, beads, pewter figurines"
+  },
+  {
+    "Company": "Parina Casting Service",
+    "City": "Dallas",
+    "State": "TX",
+    "Services/Metals": "Platinum & palladium casting"
+  },
+  {
+    "Company": "Sarkisian's Jewelry Co.",
+    "City": "New York",
+    "State": "NY",
+    "Services/Metals": "Jewelry manufacturer & casting"
+  },
+  {
+    "Company": "J. Thomson Custom Jewelers",
+    "City": "Oklahoma City",
+    "State": "OK",
+    "Services/Metals": "Design, casting, repair"
+  },
+  {
+    "Company": "Classic Custom Jewelers",
+    "City": "Garland",
+    "State": "TX",
+    "Services/Metals": "Custom casting & repair"
+  },
+  {
+    "Company": "C A Jewelers",
+    "City": "Chicago",
+    "State": "IL",
+    "Services/Metals": "Casting & repair"
+  },
+  {
+    "Company": "Frederick M Gottlieb & Co",
+    "City": "Chicago",
+    "State": "IL",
+    "Services/Metals": "Jewelry casting & repair"
+  },
+  {
+    "Company": "Rock N Gold Creations Inc.",
+    "City": "San Diego",
+    "State": "CA",
+    "Services/Metals": "Casting & creation"
+  },
+  {
+    "Company": "Royal Hawaiian Heritage Jewelry",
+    "City": "Aiea",
+    "State": "HI",
+    "Services/Metals": "Casting & repair"
+  },
+  {
+    "Company": "Koning Lapidaries",
+    "City": "Morristown",
+    "State": "AZ",
+    "Services/Metals": "Casting & gem cutting"
+  },
+  {
+    "Company": "Romanoff Int'l Supply Corp",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Services/Metals": "Casting & fabrication"
+  },
+  {
+    "Company": "CP McGinty Jewelers",
+    "City": "Cape Girardeau",
+    "State": "MO",
+    "Services/Metals": "Casting & custom jewelry"
+  },
+  {
+    "Company": "Fuller & Associates Jewelers",
+    "City": "Fulton",
+    "State": "MO",
+    "Services/Metals": "Casting & repair"
+  },
+  {
+    "Company": "LaBelle Jewelry & Repair",
+    "City": "Orland Park",
+    "State": "IL",
+    "Services/Metals": "Casting & repair"
+  },
+  {
+    "Company": "Master Casting & Cad (BBB)",
+    "City": "Chicago",
+    "State": "IL",
+    "Services/Metals": "CAD-to-cast services"
+  },
+  {
+    "Company": "Goldworks Design Manufacturers",
+    "City": "North Plains",
+    "State": "OR",
+    "Services/Metals": "Casting & precise designs"
+  },
+  {
+    "Company": "Jack Wade Gold Company",
+    "City": "Tok",
+    "State": "AK",
+    "Services/Metals": "Jewelry casting & repair"
+  },
+  {
+    "Company": "Schmitt Jewelers",
+    "City": "Phoenix",
+    "State": "AZ",
+    "Services/Metals": "Casting & repair"
+  },
+  {
+    "Company": "Levy's Fine Jewelry",
+    "City": "Birmingham",
+    "State": "AL",
+    "Services/Metals": "Casting & sales"
+  },
+  {
+    "Company": "Fourth Street Jewelers",
+    "City": "Glencoe",
+    "State": "AL",
+    "Services/Metals": "Casting & appraisal"
+  }
+]
